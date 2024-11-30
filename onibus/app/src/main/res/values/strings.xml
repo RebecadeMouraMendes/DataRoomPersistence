@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Horário Ônibus</string>
+    <string name="full_schedule">Horário Ônibus</string>
+    <string name="back">Voltar</string>
+    <string name="stop_name">Nome do Ponto</string>
+    <string name="route_stop_name">Ponto</string>
+    <string name="arrival_time">Tempo estimado</string>
+</resources>
